@@ -1,0 +1,7 @@
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework14\Homework14\Homework14\bin\Debug\Homework14.exe.config
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework14\Homework14\Homework14\bin\Debug\Homework14.exe
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework14\Homework14\Homework14\bin\Debug\Homework14.pdb
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework14\Homework14\Homework14\obj\Debug\Homework14.csprojAssemblyReference.cache
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework14\Homework14\Homework14\obj\Debug\Homework14.csproj.CoreCompileInputs.cache
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework14\Homework14\Homework14\obj\Debug\Homework14.exe
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework14\Homework14\Homework14\obj\Debug\Homework14.pdb
